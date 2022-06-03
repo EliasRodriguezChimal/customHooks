@@ -1,3 +1,14 @@
+# What's this repo about?
+
+This project contains different Custom Hooks created through Udemy course. This files are useful even in
+new projects if you need a counter, form, do fetch requests, etc. 
+
+# Files
+
+Repo contains the JS files with Custom Hooks, as well as the unit tests made to check hooks functioning.
+
+# React project installation - Basic instructions
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
